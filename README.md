@@ -32,3 +32,15 @@
 1. 安裝套件：
    ```bash
    pip install ollama
+   
+2. 執行模型（兩個 terminal）：
+   ```bash
+   # 用於分類語意與地點
+   ollama run gemma3:1b
+   # 用於聊天功能
+   ollama run gemma3_elderly
+3.執行主程式：
+```bash
+python record_item.py
+
+
