@@ -1,5 +1,10 @@
-*.safetensors
-*.bin
-*.pt
 __pycache__/
+*.pt
+*.bin
+*.safetensors
+*.log
+*.jsonl
+*.ckpt
+*.tmp
+.DS_Store
 .env
