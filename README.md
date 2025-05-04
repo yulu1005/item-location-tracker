@@ -42,5 +42,3 @@
 3.執行主程式：
 ```bash
 python record_item.py
-
-
