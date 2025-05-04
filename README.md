@@ -7,7 +7,7 @@
 ##  技術使用
 
 * **Ollama + Gemma3:1b**：用於辨識使用者是否有記錄意圖，以及分類地點 (ex: 客廳、書房)
-* **Gemma3\_elderly**：貼心伴講式的聊天模型，應對非記錄意圖的內容
+* **Gemma3\_elderly**：陪伴的聊天模型，應對非記錄意圖的內容
 * **Python + JSON + 正則表示法**：獲 item / location / owner 資訊
 
 ---
