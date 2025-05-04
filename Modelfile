@@ -1,4 +1,5 @@
 FROM gemma3:1b
+ADAPTER ./lora-gemma3-intent
 
 SYSTEM """
 你是一個語句分類助手，請根據以下句子判斷使用者是否是在「記錄物品位置」。
