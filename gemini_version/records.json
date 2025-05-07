@@ -1,0 +1,68 @@
+[
+  {
+    "type": "schedule",
+    "task": "出差",
+    "location": "台南",
+    "place": null,
+    "time": "下週六",
+    "person": "我",
+    "raw_text": "我下週六要去台南出差",
+    "timestamp": "2025-05-05 17:40:37"
+  },
+  {
+    "type": "schedule",
+    "task": "洗牙",
+    "location": "",
+    "place": "",
+    "time": "這禮拜四",
+    "person": "我",
+    "raw_text": "然後這禮拜四要去洗牙",
+    "timestamp": "2025-05-05 17:41:02"
+  },
+  {
+    "type": "record",
+    "item": "手機",
+    "location": "男友家",
+    "place": "未知",
+    "owner": "我",
+    "raw_text": "幫我記一下，我把我的手機放在我男友家",
+    "timestamp": "2025-05-05 17:41:31"
+  },
+  {
+    "type": "record",
+    "item": "鑰匙",
+    "location": "我霸家",
+    "place": "未知",
+    "owner": "我",
+    "raw_text": "鑰匙放在我霸家",
+    "timestamp": "2025-05-05 17:42:05"
+  },
+  {
+    "type": "record",
+    "item": "鑰匙",
+    "location": "我新竹的家",
+    "place": "未知",
+    "owner": "我",
+    "raw_text": "鑰匙放在我新竹的家",
+    "timestamp": "2025-05-05 17:42:18"
+  },
+  {
+    "type": "record",
+    "item": "手機",
+    "location": "我哥家",
+    "place": "未知",
+    "owner": "我",
+    "raw_text": "阿 我的手機放在我哥家，記得提醒我下週六去拿",
+    "timestamp": "2025-05-05 17:44:01"
+  },
+  {
+    "type": "schedule",
+    "task": "拿手機",
+    "location": "我哥家",
+    "place": "家",
+    "time": "下週六",
+    "person": "我",
+    "raw_text": "我下週六要去我哥家拿手機",
+    "timestamp": "2025-05-05 17:44:23"
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "type": "schedule",
+    "task": "拿回送洗的床單",
+    "location": "送洗店",
+    "place": "洗衣店",
+    "time": "下週六",
+    "person": "我",
+    "raw_text": "我的床單拿去送洗，我下週六要去拿",
+    "timestamp": "2025-05-05 17:52:16"
+  },
+  {
+    "type": "schedule",
+    "task": "吃飯",
+    "location": "未提及",
+    "place": "未提及",
+    "time": "下禮拜五的晚上",
+    "person": "我",
+    "raw_text": "我下禮拜五的晚上要去跟朋友吃飯",
+    "timestamp": "2025-05-05 17:52:49"
+  },
+  {
+    "type": "schedule",
+    "task": "回診",
+    "location": "未提及",
+    "place": "未提及",
+    "time": "下禮拜一10:00",
+    "person": "阿嬤",
+    "raw_text": "阿嬤下禮拜一10:00要去回診",
+    "timestamp": "2025-05-05 17:56:02"
+  },
+  {
+    "type": "schedule",
+    "task": "回診",
+    "location": "醫院",
+    "place": "醫院",
+    "time": "下禮拜一10:00",
+    "person": "阿公",
+    "raw_text": "阿公下禮拜一10:00要去醫院回診",
+    "timestamp": "2025-05-05 17:56:28"
+  },
+  {
+    "type": "schedule",
+    "task": "記住排休放假",
+    "location": "未提及",
+    "place": "未提及",
+    "time": "下禮拜五",
+    "person": "我",
+    "raw_text": "我下禮拜五排休，幫我記一下那天放假",
+    "timestamp": "2025-05-05 17:57:27"
+  },
+  {
+    "type": "schedule",
+    "task": "洗牙",
+    "location": "未提及",
+    "place": "牙醫診所",
+    "time": "明天早上",
+    "person": "阿公",
+    "raw_text": "阿公明天早上要去洗牙",
+    "timestamp": "2025-05-05 17:57:51"
+  },
+  {
+    "type": "schedule",
+    "task": "買午餐",
+    "location": "未提及",
+    "place": "未提及",
+    "time": "禮拜五",
+    "person": "我",
+    "raw_text": "我禮拜五要幫老闆買午餐",
+    "timestamp": "2025-05-05 17:58:33"
+  },
+  {
+    "type": "schedule",
+    "task": "掃墓",
+    "location": "我們家",
+    "place": "墓地",
+    "time": "下禮拜四",
+    "person": "我們",
+    "raw_text": "我們家下禮拜四要去掃墓",
+    "timestamp": "2025-05-05 17:59:58"
+  },
+  {
+    "type": "schedule",
+    "task": "吃飯",
+    "location": "未提及",
+    "place": "未提及",
+    "time": "明天中午12:00",
+    "person": "朋友",
+    "raw_text": "然後明天中午12:00跟朋友吃飯",
+    "timestamp": "2025-05-05 18:00:21"
+  },
+  {
+    "type": "schedule",
+    "task": "洗牙",
+    "location": "未提及",
+    "place": "牙醫診所",
+    "time": "下禮拜六",
+    "person": "我",
+    "raw_text": "下禮拜六我要去洗牙",
+    "timestamp": "2025-05-06 14:10:17"
+  },
+  {
+    "type": "schedule",
+    "task": "洗牙",
+    "location": null,
+    "place": "醫院",
+    "time": "下禮拜四",
+    "parsed_date": "無法解析",
+    "person": "我",
+    "raw_text": "我下禮拜四要去洗牙",
+    "timestamp": "2025-05-06 14:16:52"
+  },
+  {
+    "type": "schedule",
+    "task": "洗牙",
+    "location": "未提及",
+    "place": "未提及",
+    "time": "下禮拜四",
+    "parsed_date": null,
+    "person": "我",
+    "raw_text": "我下禮拜四要去洗牙",
+    "timestamp": "2025-05-06 14:20:59"
+  },
+  {
+    "type": "schedule",
+    "task": "回診",
+    "location": "診所",
+    "place": "醫療機構",
+    "time": "下禮拜三",
+    "parsed_date": null,
+    "person": "我",
+    "raw_text": "我下禮拜三要去診所回診",
+    "timestamp": "2025-05-06 14:21:27"
+  },
+  {
+    "type": "schedule",
+    "task": "出差",
+    "location": "南投",
+    "place": null,
+    "time": "下禮拜五",
+    "person": "我",
+    "raw_text": "下禮拜五我要去南投出差一趟",
+    "timestamp": "2025-05-06 23:06:21"
+  },
+  {
+    "type": "schedule",
+    "task": "出差",
+    "location": "南投",
+    "place": null,
+    "time": "下禮拜五",
+    "person": "我",
+    "raw_text": "下禮拜五我要去南投出差一趟",
+    "timestamp": "2025-05-06 23:28:48"
+  },
+  {
+    "type": "schedule",
+    "task": "出差",
+    "location": "南投",
+    "place": "未知",
+    "time": "下禮拜五",
+    "person": "我",
+    "raw_text": "下禮拜五我要去南投出差一趟",
+    "timestamp": "2025-05-06 23:37:14"
+  },
+  {
+    "type": "schedule",
+    "task": "確認要做的事情",
+    "location": "未知",
+    "place": "未知",
+    "time": "下禮拜五",
+    "person": "我",
+    "raw_text": "我下禮拜五要幹嘛去了",
+    "timestamp": "2025-05-06 23:37:42"
+  },
+  {
+    "type": "schedule",
+    "task": "領床單",
+    "location": "洗衣店",
+    "place": "商店",
+    "time": "下禮拜",
+    "person": "我",
+    "raw_text": "我下禮拜要去洗衣店領我床單",
+    "timestamp": "2025-05-06 23:38:09"
+  },
+  {
+    "type": "schedule",
+    "task": "聚餐",
+    "location": "未提及",
+    "place": "未提及",
+    "time": "下禮拜六晚上8點",
+    "person": "我",
+    "raw_text": "我下禮拜六晚上8點要去跟朋友聚餐",
+    "timestamp": "2025-05-06 23:41:32"
+  },
+  {
+    "type": "schedule",
+    "task": "吃飯",
+    "location": "信義",
+    "place": "未知",
+    "time": "晚上6點",
+    "person": "我",
+    "raw_text": "我晚上6點要跟朋友去信義吃飯",
+    "timestamp": "2025-05-06 23:47:15"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "type": "record",
+    "item": "車鑰匙",
+    "location": "我哥家",
+    "place": "住宅",
+    "owner": "我",
+    "raw_text": "我的車鑰匙放在我哥家",
+    "timestamp": "2025-05-05 17:53:07"
+  },
+  {
+    "type": "record",
+    "item": "錢包",
+    "location": "我哥家",
+    "place": "住宅",
+    "owner": "我",
+    "raw_text": "喔 然後我的錢包也放在我哥家",
+    "timestamp": "2025-05-05 17:53:25"
+  },
+  {
+    "type": "record",
+    "item": "牙套",
+    "location": "床頭櫃上",
+    "place": "臥室",
+    "owner": "我",
+    "raw_text": "牙套放在床頭櫃上",
+    "timestamp": "2025-05-05 17:53:43"
+  },
+  {
+    "type": "record",
+    "item": "書",
+    "location": "我家",
+    "place": "地點分類：住家",
+    "owner": "我妹",
+    "raw_text": "我妹的書忘在我家了，幫我記一下",
+    "timestamp": "2025-05-05 17:54:27"
+  },
+  {
+    "type": "record",
+    "item": "包包",
+    "location": "我姊房間",
+    "place": "臥室",
+    "owner": "我",
+    "raw_text": "我的包包放在我姊房間",
+    "timestamp": "2025-05-06 14:08:49"
+  },
+  {
+    "type": "record",
+    "item": "包包",
+    "location": "我哥家",
+    "place": "住宅",
+    "owner": "我",
+    "raw_text": "我的包包放在我哥家",
+    "timestamp": "2025-05-06 14:21:57"
+  },
+  {
+    "type": "record",
+    "item": "水壺",
+    "location": "爸爸家",
+    "place": "住宅",
+    "owner": "哥哥",
+    "raw_text": "哥哥的水壺放在爸爸家",
+    "timestamp": "2025-05-06 14:22:27"
+  },
+  {
+    "type": "record",
+    "item": "包包",
+    "location": "我哥房間",
+    "place": "臥室",
+    "owner": "我",
+    "raw_text": "我的包包放在我哥房間",
+    "timestamp": "2025-05-06 23:05:27"
+  },
+  {
+    "type": "record",
+    "item": "手機",
+    "location": "我爸家",
+    "place": "住宅",
+    "owner": "我",
+    "raw_text": "我的手機放在我爸家",
+    "timestamp": "2025-05-06 23:39:18"
+  },
+  {
+    "type": "record",
+    "item": "外套",
+    "location": "送洗店",
+    "place": "其他",
+    "owner": "我姊",
+    "raw_text": "我姊的外套在送洗店，下禮拜一要去領",
+    "timestamp": "2025-05-06 23:39:43"
+  },
+  {
+    "type": "record",
+    "item": "玩偶",
+    "location": "家裡",
+    "place": "不確定",
+    "owner": "姊姊",
+    "raw_text": "姊姊的玩偶放在家裡",
+    "timestamp": "2025-05-06 23:40:45"
+  },
+  {
+    "type": "record",
+    "item": "書包",
+    "location": "房間右邊第二層書櫃",
+    "place": "臥室",
+    "owner": "我",
+    "raw_text": "我的書包放在我房間右邊第二層書櫃",
+    "timestamp": "2025-05-06 23:41:06"
+  }
+]
