@@ -4,7 +4,7 @@ from datetime import datetime, date
 import google.generativeai as genai
 
 # 初始化 Gemini 模型
-genai.configure(api_key="AIzaSyBeQ39c5VUwOjOwtWijcZySCyt-hjVQyKY")  # ⚠️ 請換成你自己的金鑰
+genai.configure(api_key="自己的API")  # ⚠️ 請換成你自己的金鑰
 model = genai.GenerativeModel("gemini-2.0-flash")
 
 # ========== 對話記憶儲存與載入 ==========
